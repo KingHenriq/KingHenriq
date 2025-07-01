@@ -1,4 +1,10 @@
-## Hi there 👋
+#Geraldo Henrique
+Opa meu nome e Geraldo Henrique
+Tenho 16 anos sou de 31/05/2009
+Nasci na cidade de Guaratinga BA
+Gosto de futebol e de computadores
+No meu tempo livre eu saio com meus amigos ou fico mexendo no celular
+
 
 <!--
 **KingHenriq/KingHenriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
